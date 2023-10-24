@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilesh
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on software development company
+- 🌱 I’m a software developer with 2 years of hands-on experience
+- 💞️ I’m looking to collaborate with a software development company
 - 📫 How to reach me nilkanojiya9@gmail.com
 
 <!---
